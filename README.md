@@ -1,8 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ```
-NAME: RAGUL M
-REG NO: 212224100048
+NAME: SRI GOKUL VENKAT
+REG NO: 212224040324
 ```
 
 ## Aim: 
